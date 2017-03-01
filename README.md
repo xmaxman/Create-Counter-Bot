@@ -1,2 +1,15 @@
-# Create-Counter-Bot
-Create Counter Bot
+برای نصب ربات مراحل زیر را طی کنید
+
+ابتدا توکن و شناسۀ خود و مقادیر خواسته شده را در جاهای مشخص قرار دهید.
+
+سپس سورس را در هاست خود که دارای ssl می باشد آپلود کنید.
+
+بعد از انجام مراحل بالا می بایست وب هوک را بر روی سورس ربات تنظیم کنید.
+
+دستور تنظیم کردن وب هوک :
+
+https://api.telegram.org/botتوکن/setWebhook?url=ادرس فایل
+
+
+#[Creator](https://t.me/oYSoF)
+#[Telegram Channel](https://t.me/TGsoldierCH)
