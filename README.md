@@ -11,5 +11,8 @@
 https://api.telegram.org/botتوکن/setWebhook?url=ادرس
 
 
+سپس برای مدیریت ربات دستور /panel را بفرستید.
+
+
 #[Creator](https://t.me/oYSoF)
 #[Telegram Channel](https://t.me/TGsoldierCH)
