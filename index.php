@@ -3,10 +3,10 @@
 	 ربات افزودن شمارنده به انتهای پیامها بدون احتیاج به کانال
 	 سازنده : @oYSoF , کانال : @TGsoldierCH
 	 */
-	 define('TOKEN', 'محل توکن ربات');
-	 $admin = 'شناسه مدیر ربات';
-	 $admin_username = 'oYSoF'; # نام کاربری مدیر ربات بدون @
-	 $ch = 'TGsoldierCH'; # نام کاربری کانال بدون @
+	 define('408859617:AAHVt18vA4KCz1iiF05-QWGhULn0Chh1V1c', 'محل توکن ربات');
+	 $admin = '435117544';
+	 $admin_username = 'Mr_Develloper'; # نام کاربری مدیر ربات بدون @
+	 $ch = 'CyberSecurrity'; # نام کاربری کانال بدون @
 	 
 	 function bot($method, $data = []){
 		 $ch = curl_init();
